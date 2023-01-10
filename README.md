@@ -1,4 +1,5 @@
 ## FGVC8-teamwork
+https://www.kaggle.com/competitions/plant-pathology-2021-fgvc8/code
 # Results
 # Semi-iNature
 |  Training Data  | Method  | input|Top-1 Val. Accuracy (%)|epoch|
