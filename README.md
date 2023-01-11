@@ -1,7 +1,7 @@
 ## FGVC8-teamwork
 https://www.kaggle.com/competitions/plant-pathology-2021-fgvc8/code
 # Results
-# Semi-iNature
+## Semi-iNature
 |  Training Data  | Method  | input|Top-1 Val. Accuracy (%)|epoch|
 |  ----  | ----  |:----:|:----:|:----:|
 | Labeled train images  | ResNet-50 ||31.00|-|
@@ -11,11 +11,11 @@ https://www.kaggle.com/competitions/plant-pathology-2021-fgvc8/code
 | Labeled train images  | eff_b3b ||42.00|199|
 | Labeled train images  | eff_b4b |360x360|44.98|149|
 | Labeled train images  | eff_b4b |800x800|46.67|18|
-# Label
+## Label
 |images per category|  >=5  | >10  | >20|>30|>40|  >50  | >60  | >70|>80|
 |:----:| :----: | :----:|:----:|:----:|:----:| :----:|:----:|:----:|:----:|
 |categories| 810 | 329  |126|45|18| 9  |5 |2|0|
-# CDP
+## CDP
 |kNN(k)|  threshold | images| classes|
 |:----:| :----: |:----:| :----: |
 |80| 0.5 |147427| 79002 |
